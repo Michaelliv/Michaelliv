@@ -45,9 +45,19 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 Tools at the intersection of AI agents and developer infrastructure — secrets management, sandboxing, scheduling, memory, and CLI tooling.
 
 ```
-psst         — agents use secrets without seeing them        ★ 84
-claude-quest — pixel-art RPG viewer for Claude Code sessions ★ 88
-agentbox     — sandboxed code execution for AI agents        ★ 34
-9to5         — scheduled agents for Claude Code              ★ 16
-mental       — mental model layer for agent-written code     ★ 15
+<!-- projects starts -->
+claude-quest          RPG-style animation viewer for Claude Code sessions…  ★ 88
+psst                  AI-native secrets manager. Agents use secrets witho…  ★ 84
+agentbox              A computer for your agent - sandboxed code executio…  ★ 34
+9to5                  Automated agents for Claude Code — trigger on a sch…  ★ 16
+cc-dejavu             CLI tool to search and browse Claude Code bash comm…  ★ 15
+mental                The mental model layer for agent-written code         ★ 15
+agent-harness         Open source primitives for agent context management   ★ 7
+nanny                 The dumb task loop for smart agents. Ralph Wiggum l…  ★ 3
+agent-harness-ai-sdk  Context engine implementation for Vercel AI SDK       ★ 2
+skill-search-cli      CLI tool for searching and managing AI agent skills   ★ 2
+charts-cli            Generate SVG/PNG charts from the command line — bar…  ★ 1
+cc-for-dummies        Claude Code for Dummies
+handoff               macOS clipboard manager for sharing content between…
+<!-- projects ends -->
 ```
