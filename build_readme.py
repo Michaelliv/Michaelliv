@@ -77,16 +77,14 @@ def fetch_projects(min_stars=0):
 
     projects.sort(key=lambda p: p["stars"], reverse=True)
 
-    # Build aligned text block
-    max_name = max(len(p["name"]) for p in projects)
-    max_desc = 52  # truncate for clean formatting
-    lines = []
+    # Build markdown table
+    lines = ["| Project | What it does | ★ |", "|---------|-------------|---|"]
     for p in projects:
-        desc = p["desc"][:max_desc].rstrip()
-        if len(p["desc"]) > max_desc:
-            desc = desc[:max_desc - 1].rstrip() + "…"
-        star_str = f"★ {p['stars']}" if p["stars"] > 0 else ""
-        lines.append(f"{p['name']:<{max_name}}  {desc:<{max_desc}}  {star_str}".rstrip())
+        desc = p["desc"]
+        if len(desc) > 60:
+            desc = desc[:59].rstrip() + "…"
+        star_str = str(p["stars"]) if p["stars"] > 0 else ""
+        lines.append(f"| [{p['name']}]({p['url']}) | {desc} | {star_str} |")
     return "\n".join(lines)
 
 

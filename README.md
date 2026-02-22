@@ -44,20 +44,20 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 
 Tools at the intersection of AI agents and developer infrastructure — secrets management, sandboxing, scheduling, memory, and CLI tooling.
 
-```
 <!-- projects starts -->
-claude-quest          RPG-style animation viewer for Claude Code sessions…  ★ 88
-psst                  AI-native secrets manager. Agents use secrets witho…  ★ 84
-agentbox              A computer for your agent - sandboxed code executio…  ★ 34
-9to5                  Automated agents for Claude Code — trigger on a sch…  ★ 16
-cc-dejavu             CLI tool to search and browse Claude Code bash comm…  ★ 15
-mental                The mental model layer for agent-written code         ★ 15
-agent-harness         Open source primitives for agent context management   ★ 7
-nanny                 The dumb task loop for smart agents. Ralph Wiggum l…  ★ 3
-agent-harness-ai-sdk  Context engine implementation for Vercel AI SDK       ★ 2
-skill-search-cli      CLI tool for searching and managing AI agent skills   ★ 2
-charts-cli            Generate SVG/PNG charts from the command line — bar…  ★ 1
-cc-for-dummies        Claude Code for Dummies
-handoff               macOS clipboard manager for sharing content between…
+| Project | What it does | ★ |
+|---------|-------------|---|
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 88 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 84 |
+| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
+| [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 16 |
+| [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 15 |
+| [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 15 |
+| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 7 |
+| [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 3 |
+| [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 2 |
+| [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 2 |
+| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 1 |
+| [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
+| [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… |  |
 <!-- projects ends -->
-```
