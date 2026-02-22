@@ -1,22 +1,37 @@
-# /dev/michael
+```
+ ╔══════════════════════════════════════════╗
+ ║  /dev/michael                           ║
+ ║  Building tools for agents              ║
+ ║  that do real work.                     ║
+ ╚══════════════════════════════════════════╝
+```
 
-Building tools for agents that do real work.
+**Israel** · [michaellivs.com](https://michaellivs.com) · [@micLivs](https://twitter.com/micLivs)
 
-Israel · [michaellivs.com](https://michaellivs.com) · [@micLivs](https://twitter.com/micLivs)
+I write about agent architecture, tool design, context engineering, and sandboxing.
+Latest from the blog → [/dev/michael](https://michaellivs.com)
 
 ---
 
-### What I'm building
+#### `ls ~/projects`
 
-| Project | What it does |
-|---------|-------------|
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager — agents use secrets without seeing them |
-| [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — schedule, webhook, or on-demand |
-| [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents |
-| [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing between humans and AI agents |
+```
+psst/         — agents use secrets without seeing them        ★ 84
+claude-quest/ — pixel-art RPG viewer for Claude Code sessions ★ 88
+agentbox/     — sandboxed code execution for AI agents        ★ 34
+9to5/         — scheduled agents for Claude Code              ★ 16
+cc-dejavu/    — search your Claude Code bash history          ★ 15
+mental/       — mental model layer for agent-written code     ★ 15
+nanny/        — the dumb task loop for smart agents
+handoff/      — clipboard manager between humans and agents
+```
 
-### What I write about
+---
 
-Agent architecture, tool design, context engineering, sandboxing, and the craft of building with LLMs.
+#### `cat ~/.interests`
 
-Latest posts on [/dev/michael →](https://michaellivs.com)
+```
+agent-harness-design    context-engineering    tool-design
+sandboxing              multi-agent-systems    retrieval
+claude-code             secrets-management     cli-tooling
+```
