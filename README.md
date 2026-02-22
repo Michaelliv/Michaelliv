@@ -6,7 +6,7 @@
  ╚══════════════════════════════════════════╝
 ```
 
-**Israel** · [michaellivs.com](https://michaellivs.com) · [@micLivs](https://twitter.com/micLivs)
+[michaellivs.com](https://michaellivs.com) · [@micLivs](https://twitter.com/micLivs)
 
 I write about agent architecture, tool design, context engineering, and sandboxing.
 Latest from the blog → [/dev/michael](https://michaellivs.com)
