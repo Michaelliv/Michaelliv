@@ -40,9 +40,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 
 </td></tr></table>
 
-### What I build
-
-Tools at the intersection of AI agents and developer infrastructure — secrets management, sandboxing, scheduling, memory, and CLI tooling.
+### Projects
 
 <!-- projects starts -->
 | Project | What it does | ★ |
