@@ -4,6 +4,8 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[The LLM app spectrum](https://michaellivs.com/blog/the-llm-app-spectrum/) - 2026-02-23
+
 [Skills, forks, and self-surgery: how agent harnesses grow](https://michaellivs.com/blog/three-ways-to-extend-an-agent-harness/) - 2026-02-22
 
 [The Claw ecosystem: 12 personal agents, dissected](https://michaellivs.com/blog/personal-ai-agents-compared/) - 2026-02-22
@@ -11,8 +13,6 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 [The hard problem in multi-agent is context transfer](https://michaellivs.com/blog/multi-agent-context-transfer/) - 2026-02-10
 
 [Your Eval Sucks and Nobody Is Coming to Save You](https://michaellivs.com/blog/your-eval-sucks/) - 2026-02-10
-
-[Your RAG Pipeline Sucks and Nobody Is Coming to Save You](https://michaellivs.com/blog/your-rag-pipeline-sucks/) - 2026-02-09
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 88 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 89 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 84 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 16 |
@@ -58,4 +58,5 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… |  |
+| [landlord](https://github.com/the-shift-dev/landlord) | Service catalog for AI coding agents. Knows every tenant, e… |  |
 <!-- projects ends -->

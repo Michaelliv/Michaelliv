@@ -8,6 +8,7 @@ from datetime import datetime
 ROOT = pathlib.Path(__file__).parent
 USERNAME = "Michaelliv"
 SKIP_REPOS = {"Michaelliv", "blog", "dotskills"}
+CONTRIB_ORGS = ["the-shift-dev"]
 
 
 def gh_headers():
@@ -74,6 +75,34 @@ def fetch_projects(min_stars=0):
             "desc": desc,
             "url": repo["html_url"],
         })
+
+    # Also include public repos from orgs where USERNAME is a contributor
+    for org in CONTRIB_ORGS:
+        org_repos = requests.get(
+            f"https://api.github.com/orgs/{org}/repos?type=public&per_page=100",
+            headers=headers,
+        ).json()
+        for repo in org_repos:
+            if repo.get("fork") or repo["name"] in SKIP_REPOS:
+                continue
+            if not repo.get("description"):
+                continue
+            if repo.get("stargazers_count", 0) < min_stars:
+                continue
+            # Check if USERNAME is a contributor
+            contributors = requests.get(
+                f"https://api.github.com/repos/{org}/{repo['name']}/contributors",
+                headers=headers,
+            ).json()
+            if not any(c.get("login") == USERNAME for c in contributors if isinstance(c, dict)):
+                continue
+            desc = repo["description"].lstrip("🤫 ")
+            projects.append({
+                "name": repo["name"],
+                "stars": repo.get("stargazers_count", 0),
+                "desc": desc,
+                "url": repo["html_url"],
+            })
 
     projects.sort(key=lambda p: p["stars"], reverse=True)
 
