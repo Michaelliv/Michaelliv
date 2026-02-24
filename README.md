@@ -20,9 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
+[nanny v0.1.3](https://github.com/Michaelliv/nanny/releases/tag/v0.1.3) - 2026-02-24
+
+[nanny v0.1.2](https://github.com/Michaelliv/nanny/releases/tag/v0.1.2) - 2026-02-24
 
 [nanny v0.1.1](https://github.com/Michaelliv/nanny/releases/tag/v0.1.1) - 2026-02-18
+
+[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
 
 [fork-you v0.3.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.3.0) - 2026-02-18
 
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [fork-you v0.1.1](https://github.com/Michaelliv/fork-you/releases/tag/v0.1.1) - 2026-02-17
 
 [9to5 v0.5.0](https://github.com/Michaelliv/9to5/releases/tag/v0.5.0) - 2026-02-13
-
-[skill-search-cli v0.0.3](https://github.com/Michaelliv/skill-search-cli/releases/tag/v0.0.3) - 2026-02-10
-
-[skill-search-cli v0.0.2](https://github.com/Michaelliv/skill-search-cli/releases/tag/v0.0.2) - 2026-02-10
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 115 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 84 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 118 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 85 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 16 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 15 |
