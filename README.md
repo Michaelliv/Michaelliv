@@ -4,6 +4,8 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[Knowledge distillation into skills via feedback loops](https://michaellivs.com/blog/knowledge-distillation-into-skills/) - 2026-02-25
+
 [The LLM app spectrum](https://michaellivs.com/blog/the-llm-app-spectrum/) - 2026-02-23
 
 [Skills, forks, and self-surgery: how agent harnesses grow](https://michaellivs.com/blog/three-ways-to-extend-an-agent-harness/) - 2026-02-22
@@ -11,8 +13,6 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 [The Claw ecosystem: 12 personal agents, dissected](https://michaellivs.com/blog/personal-ai-agents-compared/) - 2026-02-22
 
 [The hard problem in multi-agent is context transfer](https://michaellivs.com/blog/multi-agent-context-transfer/) - 2026-02-10
-
-[Your Eval Sucks and Nobody Is Coming to Save You](https://michaellivs.com/blog/your-eval-sucks/) - 2026-02-10
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
@@ -24,13 +24,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [nanny v0.1.2](https://github.com/Michaelliv/nanny/releases/tag/v0.1.2) - 2026-02-24
 
+[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
+
 [fork-you v0.3.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.3.0) - 2026-02-18
 
 [fork-you v0.2.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.2.0) - 2026-02-18
 
 [nanny v0.1.1](https://github.com/Michaelliv/nanny/releases/tag/v0.1.1) - 2026-02-18
-
-[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
 
 [fork-you v0.1.1](https://github.com/Michaelliv/fork-you/releases/tag/v0.1.1) - 2026-02-17
 
