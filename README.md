@@ -20,6 +20,10 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[clawbber v0.1.7](https://github.com/Michaelliv/clawbber/releases/tag/v0.1.7) - 2026-02-27
+
+[clawbber v0.1.1](https://github.com/Michaelliv/clawbber/releases/tag/v0.1.1) - 2026-02-27
+
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
 [claude-quest v0.1.7](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.7) - 2026-02-26
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
 
 [fork-you v0.3.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.3.0) - 2026-02-18
-
-[fork-you v0.2.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.2.0) - 2026-02-18
-
-[nanny v0.1.1](https://github.com/Michaelliv/nanny/releases/tag/v0.1.1) - 2026-02-18
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,10 +45,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 131 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 136 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 88 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
-| [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 17 |
+| [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 19 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 16 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 15 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 7 |
@@ -61,6 +61,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [yellowpages](https://github.com/the-shift-dev/yellowpages) | 📒 Service catalog for AI coding agents. Look it up before y… | 1 |
 | [napkin](https://github.com/the-shift-dev/napkin) | 🧻 Obsidian-compatible CLI for agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
+| [clawbber](https://github.com/Michaelliv/clawbber) | 🐻🦞 BearClaw — There are many claws, but this one is mine. P… |  |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents |  |
 | [stage-cli](https://github.com/the-shift-dev/stage-cli) | CLI client for Stage — a sandboxed React runtime for AI age… |  |
 <!-- projects ends -->
