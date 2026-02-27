@@ -54,8 +54,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 7 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 3 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 2 |
+| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 2 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 2 |
-| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 1 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 1 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 1 |
 | [yellowpages](https://github.com/the-shift-dev/yellowpages) | 📒 Service catalog for AI coding agents. Look it up before y… | 1 |
