@@ -20,9 +20,9 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[clawbber v0.1.7](https://github.com/Michaelliv/clawbber/releases/tag/v0.1.7) - 2026-02-27
+[mercury v0.1.7](https://github.com/Michaelliv/mercury/releases/tag/v0.1.7) - 2026-02-27
 
-[clawbber v0.1.1](https://github.com/Michaelliv/clawbber/releases/tag/v0.1.1) - 2026-02-27
+[mercury v0.1.1](https://github.com/Michaelliv/mercury/releases/tag/v0.1.1) - 2026-02-27
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 136 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 140 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 88 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 19 |
@@ -58,10 +58,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 2 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 1 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 1 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 1 |
 | [yellowpages](https://github.com/the-shift-dev/yellowpages) | 📒 Service catalog for AI coding agents. Look it up before y… | 1 |
 | [napkin](https://github.com/the-shift-dev/napkin) | 🧻 Obsidian-compatible CLI for agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
-| [clawbber](https://github.com/Michaelliv/clawbber) | 🐻🦞 BearClaw — There are many claws, but this one is mine. P… |  |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents |  |
 | [stage-cli](https://github.com/the-shift-dev/stage-cli) | CLI client for Stage — a sandboxed React runtime for AI age… |  |
 <!-- projects ends -->
