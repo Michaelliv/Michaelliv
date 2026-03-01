@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[mercury v0.1.8](https://github.com/Michaelliv/mercury/releases/tag/v0.1.8) - 2026-03-01
+
 [mercury v0.1.7](https://github.com/Michaelliv/mercury/releases/tag/v0.1.7) - 2026-02-27
 
 [mercury v0.1.1](https://github.com/Michaelliv/mercury/releases/tag/v0.1.1) - 2026-02-27
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [nanny v0.1.2](https://github.com/Michaelliv/nanny/releases/tag/v0.1.2) - 2026-02-24
 
 [charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
-
-[fork-you v0.3.0](https://github.com/Michaelliv/fork-you/releases/tag/v0.3.0) - 2026-02-18
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 152 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 153 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 90 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 20 |
