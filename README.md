@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[mercury v0.1.9](https://github.com/Michaelliv/mercury/releases/tag/v0.1.9) - 2026-03-02
+[mercury v0.2.3](https://github.com/Michaelliv/mercury/releases/tag/v0.2.3) - 2026-03-03
 
-[mercury v0.1.8](https://github.com/Michaelliv/mercury/releases/tag/v0.1.8) - 2026-03-01
+[mercury v0.2.2](https://github.com/Michaelliv/mercury/releases/tag/v0.2.2) - 2026-03-03
 
-[mercury v0.1.7](https://github.com/Michaelliv/mercury/releases/tag/v0.1.7) - 2026-02-27
+[mercury v0.2.1](https://github.com/Michaelliv/mercury/releases/tag/v0.2.1) - 2026-03-03
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 158 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 159 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 92 |
-| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 34 |
+| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 35 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 20 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 17 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 16 |
