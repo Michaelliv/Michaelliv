@@ -4,15 +4,15 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[The Software Engineering Anarchist](https://michaellivs.com/blog/software-engineering-anarchist/) - 2026-03-04
+
+[Hello, World](https://michaellivs.com/blog/the-shift/) - 2026-03-04
+
 [Knowledge distillation into skills via feedback loops](https://michaellivs.com/blog/knowledge-distillation-into-skills/) - 2026-02-25
 
 [The LLM app spectrum](https://michaellivs.com/blog/the-llm-app-spectrum/) - 2026-02-23
 
 [Skills, forks, and self-surgery: how agent harnesses grow](https://michaellivs.com/blog/three-ways-to-extend-an-agent-harness/) - 2026-02-22
-
-[The Claw ecosystem: 12 personal agents, dissected](https://michaellivs.com/blog/personal-ai-agents-compared/) - 2026-02-22
-
-[The hard problem in multi-agent is context transfer](https://michaellivs.com/blog/multi-agent-context-transfer/) - 2026-02-10
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
