@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[mercury v0.3.3](https://github.com/Michaelliv/mercury/releases/tag/v0.3.3) - 2026-03-09
+
 [mercury v0.3.2](https://github.com/Michaelliv/mercury/releases/tag/v0.3.2) - 2026-03-08
 
 [mercury v0.3.1](https://github.com/Michaelliv/mercury/releases/tag/v0.3.1) - 2026-03-07
-
-[mercury v0.3.0](https://github.com/Michaelliv/mercury/releases/tag/v0.3.0) - 2026-03-07
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
@@ -46,7 +46,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 161 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 96 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 100 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 94 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 35 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 21 |
