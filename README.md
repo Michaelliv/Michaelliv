@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[mercury v0.3.3](https://github.com/Michaelliv/mercury/releases/tag/v0.3.3) - 2026-03-09
+[mercury v0.4.2](https://github.com/Michaelliv/mercury/releases/tag/v0.4.2) - 2026-03-12
 
-[mercury v0.3.2](https://github.com/Michaelliv/mercury/releases/tag/v0.3.2) - 2026-03-08
+[mercury v0.4.1](https://github.com/Michaelliv/mercury/releases/tag/v0.4.1) - 2026-03-12
 
-[mercury v0.3.1](https://github.com/Michaelliv/mercury/releases/tag/v0.3.1) - 2026-03-07
+[mercury v0.4.0](https://github.com/Michaelliv/mercury/releases/tag/v0.4.0) - 2026-03-12
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
