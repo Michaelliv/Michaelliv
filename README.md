@@ -4,6 +4,8 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[Reverse-engineering Claude's generative UI - then building it for the terminal](https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/) - 2026-03-13
+
 [The Software Engineering Anarchist](https://michaellivs.com/blog/software-engineering-anarchist/) - 2026-03-04
 
 [Hello, World](https://michaellivs.com/blog/the-shift/) - 2026-03-04
@@ -11,8 +13,6 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 [Knowledge distillation into skills via feedback loops](https://michaellivs.com/blog/knowledge-distillation-into-skills/) - 2026-02-25
 
 [The LLM app spectrum](https://michaellivs.com/blog/the-llm-app-spectrum/) - 2026-02-23
-
-[Skills, forks, and self-surgery: how agent harnesses grow](https://michaellivs.com/blog/three-ways-to-extend-an-agent-harness/) - 2026-02-22
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
@@ -53,6 +53,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 18 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 16 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 9 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 6 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 4 |
 | [napkin](https://github.com/the-shift-dev/napkin) | 🧻 Obsidian-compatible CLI for agents | 3 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 2 |
