@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[mercury v0.4.5](https://github.com/Michaelliv/mercury/releases/tag/v0.4.5) - 2026-03-14
+
 [mercury v0.4.4](https://github.com/Michaelliv/mercury/releases/tag/v0.4.4) - 2026-03-14
 
 [mercury v0.4.3](https://github.com/Michaelliv/mercury/releases/tag/v0.4.3) - 2026-03-13
-
-[mercury v0.4.2](https://github.com/Michaelliv/mercury/releases/tag/v0.4.2) - 2026-03-12
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
@@ -34,7 +34,7 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [nanny v0.1.2](https://github.com/Michaelliv/nanny/releases/tag/v0.1.2) - 2026-02-24
 
-[nanny v0.1.1](https://github.com/Michaelliv/nanny/releases/tag/v0.1.1) - 2026-02-18
+[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 353 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 391 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 162 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 107 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 100 |
@@ -57,8 +57,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [napkin](https://github.com/the-shift-dev/napkin) | 🧻 Obsidian-compatible CLI for agents | 6 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 5 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 3 |
+| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 3 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 3 |
-| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 2 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 2 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
