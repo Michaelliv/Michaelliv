@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[mercury v0.4.3](https://github.com/Michaelliv/mercury/releases/tag/v0.4.3) - 2026-03-13
+
 [mercury v0.4.2](https://github.com/Michaelliv/mercury/releases/tag/v0.4.2) - 2026-03-12
 
 [mercury v0.4.1](https://github.com/Michaelliv/mercury/releases/tag/v0.4.1) - 2026-03-12
-
-[mercury v0.4.0](https://github.com/Michaelliv/mercury/releases/tag/v0.4.0) - 2026-03-12
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 219 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 259 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 162 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 106 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 107 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 100 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 21 |
