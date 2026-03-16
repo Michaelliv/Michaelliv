@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 575 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 616 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 163 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 108 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 109 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 101 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 21 |
