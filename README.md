@@ -45,10 +45,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 616 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 642 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 163 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 109 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 101 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 110 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 102 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 21 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 19 |
