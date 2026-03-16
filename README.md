@@ -4,6 +4,8 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[Building napkin - a memory system for agents](https://michaellivs.com/blog/building-napkin-memory-system-for-agents/) - 2026-03-16
+
 [Reverse-engineering Claude's generative UI - then building it for the terminal](https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/) - 2026-03-13
 
 [The Software Engineering Anarchist](https://michaellivs.com/blog/software-engineering-anarchist/) - 2026-03-04
@@ -11,8 +13,6 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 [Hello, World](https://michaellivs.com/blog/the-shift/) - 2026-03-04
 
 [Knowledge distillation into skills via feedback loops](https://michaellivs.com/blog/knowledge-distillation-into-skills/) - 2026-02-25
-
-[The LLM app spectrum](https://michaellivs.com/blog/the-llm-app-spectrum/) - 2026-02-23
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[napkin v0.4.2](https://github.com/Michaelliv/napkin/releases/tag/v0.4.2) - 2026-03-16
+
+[napkin v0.4.1](https://github.com/Michaelliv/napkin/releases/tag/v0.4.1) - 2026-03-16
+
+[napkin v0.4.0](https://github.com/Michaelliv/napkin/releases/tag/v0.4.0) - 2026-03-16
+
 [pi-generative-ui v0.2.1](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.2.1) - 2026-03-15
 
 [mercury v0.4.5](https://github.com/Michaelliv/mercury/releases/tag/v0.4.5) - 2026-03-14
@@ -29,12 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [mercury v0.4.3](https://github.com/Michaelliv/mercury/releases/tag/v0.4.3) - 2026-03-13
 
 [claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
-
-[claude-quest v0.1.7](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.7) - 2026-02-26
-
-[nanny v0.1.3](https://github.com/Michaelliv/nanny/releases/tag/v0.1.3) - 2026-02-24
-
-[nanny v0.1.2](https://github.com/Michaelliv/nanny/releases/tag/v0.1.2) - 2026-02-24
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 642 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 163 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 654 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 164 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 110 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 102 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
