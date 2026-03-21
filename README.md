@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[dripline v0.3.2](https://github.com/Michaelliv/dripline/releases/tag/v0.3.2) - 2026-03-21
+
+[dripline v0.3.1](https://github.com/Michaelliv/dripline/releases/tag/v0.3.1) - 2026-03-20
+
+[dripline v0.3.0](https://github.com/Michaelliv/dripline/releases/tag/v0.3.0) - 2026-03-20
+
 [napkin v0.5.1](https://github.com/Michaelliv/napkin/releases/tag/v0.5.1) - 2026-03-18
 
 [napkin v0.5.0](https://github.com/Michaelliv/napkin/releases/tag/v0.5.0) - 2026-03-18
@@ -29,12 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-generative-ui v0.2.1](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.2.1) - 2026-03-15
 
 [mercury v0.4.5](https://github.com/Michaelliv/mercury/releases/tag/v0.4.5) - 2026-03-14
-
-[mercury v0.4.4](https://github.com/Michaelliv/mercury/releases/tag/v0.4.4) - 2026-03-14
-
-[mercury v0.4.3](https://github.com/Michaelliv/mercury/releases/tag/v0.4.3) - 2026-03-13
-
-[claude-quest v0.1.8](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.8) - 2026-02-26
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 754 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 757 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 164 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 111 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 104 |
@@ -62,5 +62,5 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query anything, one drip at a time. |  |
+| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. |  |
 <!-- projects ends -->
