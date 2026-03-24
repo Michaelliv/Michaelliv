@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[pi-charts v0.1.5](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.5) - 2026-03-23
+[mercury v0.5.0-exp.9](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.9) - 2026-03-24
 
-[pi-charts v0.1.4](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.4) - 2026-03-23
+[mercury v0.5.0-exp.8](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.8) - 2026-03-24
 
-[pi-charts v0.1.3](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.3) - 2026-03-23
-
-[psst v0.5.2](https://github.com/Michaelliv/psst/releases/tag/v0.5.2) - 2026-03-23
+[mercury v0.5.0-exp.7](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.7) - 2026-03-24
 
 [charts-cli v0.3.1](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.1) - 2026-03-23
 
 [charts-cli v0.3.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.0) - 2026-03-23
 
-[dripline v0.3.2](https://github.com/Michaelliv/dripline/releases/tag/v0.3.2) - 2026-03-21
+[pi-charts v0.1.5](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.5) - 2026-03-23
 
-[dripline v0.3.1](https://github.com/Michaelliv/dripline/releases/tag/v0.3.1) - 2026-03-20
+[pi-charts v0.1.4](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.4) - 2026-03-23
+
+[pi-charts v0.1.3](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.3) - 2026-03-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,17 +45,17 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 806 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 166 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 808 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 167 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 113 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 106 |
-| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 59 |
+| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 60 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 23 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 21 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 17 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 12 |
-| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 7 |
+| [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 6 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 3 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 3 |
