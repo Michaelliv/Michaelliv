@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-charts v0.1.5](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.5) - 2026-03-23
+
+[pi-charts v0.1.4](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.4) - 2026-03-23
+
+[pi-charts v0.1.3](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.3) - 2026-03-23
+
+[psst v0.5.2](https://github.com/Michaelliv/psst/releases/tag/v0.5.2) - 2026-03-23
+
 [charts-cli v0.3.1](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.1) - 2026-03-23
 
 [charts-cli v0.3.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.0) - 2026-03-23
 
-[psst v0.5.2](https://github.com/Michaelliv/psst/releases/tag/v0.5.2) - 2026-03-23
-
 [dripline v0.3.2](https://github.com/Michaelliv/dripline/releases/tag/v0.3.2) - 2026-03-21
 
 [dripline v0.3.1](https://github.com/Michaelliv/dripline/releases/tag/v0.3.1) - 2026-03-20
-
-[dripline v0.3.0](https://github.com/Michaelliv/dripline/releases/tag/v0.3.0) - 2026-03-20
-
-[napkin v0.5.1](https://github.com/Michaelliv/napkin/releases/tag/v0.5.1) - 2026-03-18
-
-[napkin v0.5.0](https://github.com/Michaelliv/napkin/releases/tag/v0.5.0) - 2026-03-18
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,11 +45,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 803 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 165 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 805 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 166 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 113 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 105 |
-| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 58 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 106 |
+| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 59 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 23 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 21 |
@@ -63,4 +63,5 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
+| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… |  |
 <!-- projects ends -->
