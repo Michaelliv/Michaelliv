@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[markit v0.1.3](https://github.com/Michaelliv/markit/releases/tag/v0.1.3) - 2026-03-25
+
 [mercury v0.5.0-exp.9](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.9) - 2026-03-24
 
 [mercury v0.5.0-exp.8](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.8) - 2026-03-24
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-charts v0.1.5](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.5) - 2026-03-23
 
 [pi-charts v0.1.4](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.4) - 2026-03-23
-
-[pi-charts v0.1.3](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.3) - 2026-03-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 818 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 168 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 821 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 169 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 114 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 106 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 60 |
@@ -62,6 +62,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 2 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 2 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 2 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 <!-- projects ends -->
