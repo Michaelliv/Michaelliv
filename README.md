@@ -20,13 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[mercury v0.5.0-exp.16](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.16) - 2026-03-26
+
 [mercury v0.5.0-exp.15](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.15) - 2026-03-25
 
 [markit v0.1.3](https://github.com/Michaelliv/markit/releases/tag/v0.1.3) - 2026-03-25
 
 [mercury v0.5.0-exp.9](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.9) - 2026-03-24
-
-[mercury v0.5.0-exp.8](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.8) - 2026-03-24
 
 [charts-cli v0.3.1](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.1) - 2026-03-23
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 822 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 823 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 169 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 114 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 106 |
@@ -58,11 +58,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 6 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 3 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 3 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 3 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 2 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 2 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 2 |
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 <!-- projects ends -->
