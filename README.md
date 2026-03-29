@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-websearch v0.2.0](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.0) - 2026-03-29
+
+[mercury v0.5.0-exp.19](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.19) - 2026-03-29
+
+[mercury v0.5.0-exp.18](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.18) - 2026-03-29
+
 [pi-websearch v0.1.0](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.1.0) - 2026-03-28
 
 [mercury v0.5.0-exp.17](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.17) - 2026-03-28
@@ -28,13 +34,7 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [markit v0.2.0](https://github.com/Michaelliv/markit/releases/tag/v0.2.0) - 2026-03-26
 
-[mercury v0.5.0-exp.16](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.16) - 2026-03-26
-
 [markit v0.1.3](https://github.com/Michaelliv/markit/releases/tag/v0.1.3) - 2026-03-25
-
-[mercury v0.5.0-exp.15](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.15) - 2026-03-25
-
-[pi-charts v0.1.5](https://github.com/Michaelliv/pi-charts/releases/tag/v0.1.5) - 2026-03-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -46,8 +46,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 845 |
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 687 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 202 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 708 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 208 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 172 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 122 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 114 |
