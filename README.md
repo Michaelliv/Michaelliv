@@ -20,7 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[markit v0.4.0](https://github.com/Michaelliv/markit/releases/tag/v0.4.0) - 2026-03-29
+
+[pi-websearch v0.2.1](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.1) - 2026-03-29
+
 [pi-websearch v0.2.0](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.0) - 2026-03-29
+
+[pi-universal-view v0.2.0](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.0) - 2026-03-29
 
 [mercury v0.5.0-exp.19](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.19) - 2026-03-29
 
@@ -29,12 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-websearch v0.1.0](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.1.0) - 2026-03-28
 
 [mercury v0.5.0-exp.17](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.17) - 2026-03-28
-
-[markit v0.3.0](https://github.com/Michaelliv/markit/releases/tag/v0.3.0) - 2026-03-27
-
-[markit v0.2.0](https://github.com/Michaelliv/markit/releases/tag/v0.2.0) - 2026-03-26
-
-[markit v0.1.3](https://github.com/Michaelliv/markit/releases/tag/v0.1.3) - 2026-03-25
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,21 +45,22 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 846 |
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 753 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 847 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 783 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 209 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 172 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 122 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 123 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 114 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 62 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 38 |
-| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 33 |
+| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 34 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 21 |
+| [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 20 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 18 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 13 |
+| [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 13 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 8 |
-| [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 7 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 6 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 3 |
