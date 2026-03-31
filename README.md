@@ -24,11 +24,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [markit v0.4.0](https://github.com/Michaelliv/markit/releases/tag/v0.4.0) - 2026-03-29
 
+[pi-universal-view v0.2.0](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.0) - 2026-03-29
+
 [pi-websearch v0.2.1](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.1) - 2026-03-29
 
 [pi-websearch v0.2.0](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.0) - 2026-03-29
-
-[pi-universal-view v0.2.0](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.0) - 2026-03-29
 
 [mercury v0.5.0-exp.19](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.19) - 2026-03-29
 
@@ -45,10 +45,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 913 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 854 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 220 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 172 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 940 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 857 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 221 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 173 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 126 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 114 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 62 |
@@ -66,7 +66,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 2 |
-| [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 1 |
+| [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
+| [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | Living documents that update themselves from your conversat… |  |
 <!-- projects ends -->
