@@ -45,14 +45,14 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 890 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 853 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 218 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 913 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 854 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Local-first CLI for Obsidian vaults. Operates directly on… | 220 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 172 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 126 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 114 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 62 |
-| [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 39 |
+| [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 40 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 38 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 34 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 34 |
