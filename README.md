@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[napkin v0.7.1](https://github.com/Michaelliv/napkin/releases/tag/v0.7.1) - 2026-04-03
+
+[napkin v0.7.0](https://github.com/Michaelliv/napkin/releases/tag/v0.7.0) - 2026-04-03
+
+[dripline v0.4.1](https://github.com/Michaelliv/dripline/releases/tag/v0.4.1) - 2026-04-03
+
 [dripline v0.4.0](https://github.com/Michaelliv/dripline/releases/tag/v0.4.0) - 2026-04-03
 
 [napkin v0.6.0](https://github.com/Michaelliv/napkin/releases/tag/v0.6.0) - 2026-04-02
@@ -28,13 +34,7 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [markit v0.4.0](https://github.com/Michaelliv/markit/releases/tag/v0.4.0) - 2026-03-29
 
-[pi-universal-view v0.2.0](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.0) - 2026-03-29
-
 [mercury v0.5.0-exp.19](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.19) - 2026-03-29
-
-[mercury v0.5.0-exp.18](https://github.com/Michaelliv/mercury/releases/tag/v0.5.0-exp.18) - 2026-03-29
-
-[pi-websearch v0.2.1](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.1) - 2026-03-29
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,13 +45,13 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1027 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1029 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 868 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 246 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 252 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 129 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 130 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 114 |
-| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 64 |
+| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 65 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 44 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 44 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 39 |
