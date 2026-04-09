@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[psst v0.6.6](https://github.com/Michaelliv/psst/releases/tag/v0.6.6) - 2026-04-07
+[markit v0.5.1](https://github.com/Michaelliv/markit/releases/tag/v0.5.1) - 2026-04-09
+
+[dripline v0.7.0-rc.2](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.2) - 2026-04-09
 
 [dripline v0.7.0-rc.1](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.1) - 2026-04-07
+
+[psst v0.6.6](https://github.com/Michaelliv/psst/releases/tag/v0.6.6) - 2026-04-07
 
 [markit test-fixtures-v1](https://github.com/Michaelliv/markit/releases/tag/test-fixtures-v1) - 2026-04-06
 
 [psst v0.6.5](https://github.com/Michaelliv/psst/releases/tag/v0.6.5) - 2026-04-06
 
-[napkin v0.7.2](https://github.com/Michaelliv/napkin/releases/tag/v0.7.2) - 2026-04-05
-
 [dripline v0.6.1](https://github.com/Michaelliv/dripline/releases/tag/v0.6.1) - 2026-04-05
 
-[dripline v0.6.0](https://github.com/Michaelliv/dripline/releases/tag/v0.6.0) - 2026-04-05
-
-[napkin v0.7.1](https://github.com/Michaelliv/napkin/releases/tag/v0.7.1) - 2026-04-03
+[napkin v0.7.2](https://github.com/Michaelliv/napkin/releases/tag/v0.7.2) - 2026-04-05
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,10 +45,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1077 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1079 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 884 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 326 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 188 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 189 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 133 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 74 |
