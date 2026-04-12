@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[dripline v0.7.0-rc.5](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.5) - 2026-04-12
+
 [markit v0.5.3](https://github.com/Michaelliv/markit/releases/tag/v0.5.3) - 2026-04-11
 
 [markit v0.5.2](https://github.com/Michaelliv/markit/releases/tag/v0.5.2) - 2026-04-11
@@ -29,8 +31,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [markit v0.5.1](https://github.com/Michaelliv/markit/releases/tag/v0.5.1) - 2026-04-09
 
 [dripline v0.7.0-rc.2](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.2) - 2026-04-09
-
-[dripline v0.7.0-rc.3](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.3) - 2026-04-09
 
 [psst v0.6.6](https://github.com/Michaelliv/psst/releases/tag/v0.6.6) - 2026-04-07
 
@@ -45,17 +45,17 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1106 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1108 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 892 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 329 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 196 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 330 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 200 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 134 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 77 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 45 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
-| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 35 |
+| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 36 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 35 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
