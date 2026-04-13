@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-image-gen v0.1.2](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.2) - 2026-04-13
+
 [pi-image-gen v0.1.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.1) - 2026-04-12
 
 [pi-image-gen v0.0.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.0.1) - 2026-04-12
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [dripline v0.7.0-rc.4](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.4) - 2026-04-10
 
 [markit v0.5.1](https://github.com/Michaelliv/markit/releases/tag/v0.5.1) - 2026-04-09
-
-[dripline v0.7.0-rc.2](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.2) - 2026-04-09
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,10 +45,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1110 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 893 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1112 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 894 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 330 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 204 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 205 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
 | [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 77 |
