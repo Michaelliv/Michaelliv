@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[napkin v0.7.4](https://github.com/Michaelliv/napkin/releases/tag/v0.7.4) - 2026-04-13
+
+[napkin v0.7.3](https://github.com/Michaelliv/napkin/releases/tag/v0.7.3) - 2026-04-13
+
 [claude-quest v0.1.9](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.9) - 2026-04-13
 
 [pi-image-gen v0.1.2](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.2) - 2026-04-13
+
+[dripline v0.7.0-rc.5](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.5) - 2026-04-12
 
 [pi-image-gen v0.1.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.1) - 2026-04-12
 
 [pi-image-gen v0.0.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.0.1) - 2026-04-12
 
-[dripline v0.7.0-rc.5](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.5) - 2026-04-12
-
 [markit v0.5.3](https://github.com/Michaelliv/markit/releases/tag/v0.5.3) - 2026-04-11
-
-[markit v0.5.2](https://github.com/Michaelliv/markit/releases/tag/v0.5.2) - 2026-04-11
-
-[dripline v0.7.0-rc.4](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.4) - 2026-04-10
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,18 +45,18 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1112 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1120 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 895 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 331 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 332 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 207 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
-| [dripline](https://github.com/Michaelliv/dripline) | Query mode for agents. | 77 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 77 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 45 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 37 |
-| [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 35 |
+| [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 36 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
@@ -69,6 +69,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 2 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 1 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
