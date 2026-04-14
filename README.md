@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[napkin v0.7.6](https://github.com/Michaelliv/napkin/releases/tag/v0.7.6) - 2026-04-14
+
 [napkin v0.7.4](https://github.com/Michaelliv/napkin/releases/tag/v0.7.4) - 2026-04-13
 
 [napkin v0.7.3](https://github.com/Michaelliv/napkin/releases/tag/v0.7.3) - 2026-04-13
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-image-gen v0.1.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.1) - 2026-04-12
 
 [pi-image-gen v0.0.1](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.0.1) - 2026-04-12
-
-[markit v0.5.3](https://github.com/Michaelliv/markit/releases/tag/v0.5.3) - 2026-04-11
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1126 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 895 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 334 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1128 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 896 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 335 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 207 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
