@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[napkin v0.8.0](https://github.com/Michaelliv/napkin/releases/tag/v0.8.0) - 2026-04-15
-
 [pi-napkin v0.2.1](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.1) - 2026-04-15
 
-[napkin v0.7.6](https://github.com/Michaelliv/napkin/releases/tag/v0.7.6) - 2026-04-14
+[runline v0.1.0](https://github.com/Michaelliv/runline/releases/tag/v0.1.0) - 2026-04-15
+
+[napkin v0.8.0](https://github.com/Michaelliv/napkin/releases/tag/v0.8.0) - 2026-04-15
 
 [pi-napkin v0.2.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.0) - 2026-04-14
 
 [pi-napkin v0.1.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.1.0) - 2026-04-14
 
+[napkin v0.7.6](https://github.com/Michaelliv/napkin/releases/tag/v0.7.6) - 2026-04-14
+
 [napkin v0.7.4](https://github.com/Michaelliv/napkin/releases/tag/v0.7.4) - 2026-04-13
 
 [claude-quest v0.1.9](https://github.com/Michaelliv/claude-quest/releases/tag/v0.1.9) - 2026-04-13
-
-[pi-image-gen v0.1.2](https://github.com/Michaelliv/pi-image-gen/releases/tag/v0.1.2) - 2026-04-13
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -46,7 +46,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1129 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 900 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 901 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 338 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 207 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
@@ -55,7 +55,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 45 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
-| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 37 |
+| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
@@ -69,7 +69,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 3 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 1 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
