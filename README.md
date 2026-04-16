@@ -52,8 +52,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 77 |
+| [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
-| [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 45 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
@@ -65,11 +65,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 7 |
 | [pi-shot](https://github.com/Michaelliv/pi-shot) | Capture the live pi TUI as a pixel-perfect PNG. Compose syn… | 5 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 4 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 4 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 3 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 3 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
