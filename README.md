@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1129 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 901 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1133 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 902 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 338 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 207 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
