@@ -20,9 +20,9 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[pi-napkin v0.2.1](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.1) - 2026-04-15
-
 [runline v0.1.0](https://github.com/Michaelliv/runline/releases/tag/v0.1.0) - 2026-04-15
+
+[pi-napkin v0.2.1](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.1) - 2026-04-15
 
 [napkin v0.8.0](https://github.com/Michaelliv/napkin/releases/tag/v0.8.0) - 2026-04-15
 
@@ -69,7 +69,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 3 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 2 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 3 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
