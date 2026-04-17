@@ -20,19 +20,19 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[pi-poster v0.1.1](https://github.com/Michaelliv/pi-poster/releases/tag/v0.1.1) - 2026-04-16
-
 [poster v0.4.0](https://github.com/Michaelliv/poster/releases/tag/v0.4.0) - 2026-04-16
 
 [poster v0.3.0](https://github.com/Michaelliv/poster/releases/tag/v0.3.0) - 2026-04-16
 
 [poster v0.2.0](https://github.com/Michaelliv/poster/releases/tag/v0.2.0) - 2026-04-16
 
+[pi-poster v0.1.1](https://github.com/Michaelliv/pi-poster/releases/tag/v0.1.1) - 2026-04-16
+
 [dripline v0.7.0-rc.7](https://github.com/Michaelliv/dripline/releases/tag/v0.7.0-rc.7) - 2026-04-16
 
-[napkin v0.8.0](https://github.com/Michaelliv/napkin/releases/tag/v0.8.0) - 2026-04-15
-
 [pi-napkin v0.2.1](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.1) - 2026-04-15
+
+[napkin v0.8.0](https://github.com/Michaelliv/napkin/releases/tag/v0.8.0) - 2026-04-15
 
 [runline v0.1.0](https://github.com/Michaelliv/runline/releases/tag/v0.1.0) - 2026-04-15
 <!-- releases ends -->
@@ -45,22 +45,22 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1133 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1135 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 903 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 337 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 338 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 206 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 77 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 78 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 31 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 19 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 12 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 7 |
