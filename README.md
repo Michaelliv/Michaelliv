@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[dripline v0.9.0](https://github.com/Michaelliv/dripline/releases/tag/v0.9.0) - 2026-04-17
-
-[dripline v0.8.1](https://github.com/Michaelliv/dripline/releases/tag/v0.8.1) - 2026-04-17
-
-[dripline v0.8.0](https://github.com/Michaelliv/dripline/releases/tag/v0.8.0) - 2026-04-17
-
 [runline v0.2.2](https://github.com/Michaelliv/runline/releases/tag/v0.2.2) - 2026-04-17
 
 [runline v0.2.1](https://github.com/Michaelliv/runline/releases/tag/v0.2.1) - 2026-04-17
 
 [runline v0.2.0](https://github.com/Michaelliv/runline/releases/tag/v0.2.0) - 2026-04-17
 
-[pi-poster v0.1.1](https://github.com/Michaelliv/pi-poster/releases/tag/v0.1.1) - 2026-04-16
+[vex-core v0.3.3](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.3) - 2026-04-17
 
-[poster v0.4.0](https://github.com/Michaelliv/poster/releases/tag/v0.4.0) - 2026-04-16
+[vex-core v0.3.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.2) - 2026-04-17
+
+[vex-core v0.3.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.1) - 2026-04-17
+
+[dripline v0.9.0](https://github.com/Michaelliv/dripline/releases/tag/v0.9.0) - 2026-04-17
+
+[dripline v0.8.1](https://github.com/Michaelliv/dripline/releases/tag/v0.8.1) - 2026-04-17
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,18 +45,18 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1140 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 908 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1141 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 909 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 341 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 207 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 208 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 81 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 53 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 79 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 39 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 41 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
@@ -71,6 +71,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 3 |
+| [agent-jail](https://github.com/Michaelliv/agent-jail) | Portable filesystem sandbox for spawning untrusted subproce… | 1 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
