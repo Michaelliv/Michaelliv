@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[agent-jail v0.4.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.4.0) - 2026-04-19
+
+[vex-core v0.3.8](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.8) - 2026-04-19
+
+[vex-core v0.3.7](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.7) - 2026-04-19
+
+[vex-core v0.3.6](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.6) - 2026-04-19
+
 [agent-jail v0.3.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.3.0) - 2026-04-18
 
 [agent-jail v0.2.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.2.0) - 2026-04-18
 
-[agent-jail v0.1.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.1.1) - 2026-04-18
-
 [dripline v0.9.1](https://github.com/Michaelliv/dripline/releases/tag/v0.9.1) - 2026-04-18
 
-[vex-core v0.3.4](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.4) - 2026-04-18
-
 [runline v0.2.2](https://github.com/Michaelliv/runline/releases/tag/v0.2.2) - 2026-04-17
-
-[runline v0.2.1](https://github.com/Michaelliv/runline/releases/tag/v0.2.1) - 2026-04-17
-
-[runline v0.2.0](https://github.com/Michaelliv/runline/releases/tag/v0.2.0) - 2026-04-17
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -46,17 +46,17 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1144 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 913 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 917 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 343 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 209 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 93 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 83 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 97 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 43 |
-| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 41 |
+| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 42 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
