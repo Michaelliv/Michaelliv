@@ -20,6 +20,10 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.3.1](https://github.com/Michaelliv/runline/releases/tag/v0.3.1) - 2026-04-20
+
+[runline v0.3.0](https://github.com/Michaelliv/runline/releases/tag/v0.3.0) - 2026-04-20
+
 [agent-jail v0.4.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.4.0) - 2026-04-19
 
 [dripline v0.9.5](https://github.com/Michaelliv/dripline/releases/tag/v0.9.5) - 2026-04-19
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [vex-core v0.3.6](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.6) - 2026-04-19
 
 [agent-jail v0.3.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.3.0) - 2026-04-18
-
-[agent-jail v0.2.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.2.0) - 2026-04-18
-
-[runline v0.2.2](https://github.com/Michaelliv/runline/releases/tag/v0.2.2) - 2026-04-17
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,12 +45,12 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1148 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 920 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1149 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 919 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 345 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 209 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 136 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 137 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 101 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
