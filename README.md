@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[dripline v0.9.10](https://github.com/Michaelliv/dripline/releases/tag/v0.9.10) - 2026-04-21
+
 [runline v0.3.2](https://github.com/Michaelliv/runline/releases/tag/v0.3.2) - 2026-04-21
 
 [runline v0.3.1](https://github.com/Michaelliv/runline/releases/tag/v0.3.1) - 2026-04-20
@@ -27,8 +29,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.3.0](https://github.com/Michaelliv/runline/releases/tag/v0.3.0) - 2026-04-20
 
 [agent-jail v0.4.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.4.0) - 2026-04-19
-
-[dripline v0.9.5](https://github.com/Michaelliv/dripline/releases/tag/v0.9.5) - 2026-04-19
 
 [vex-core v0.3.8](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.8) - 2026-04-19
 
@@ -55,7 +55,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 45 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 46 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 43 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 37 |
