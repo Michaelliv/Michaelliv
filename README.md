@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-universal-view v0.2.1](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.1) - 2026-04-22
+
 [runline v0.3.2](https://github.com/Michaelliv/runline/releases/tag/v0.3.2) - 2026-04-21
 
 [dripline v0.9.10](https://github.com/Michaelliv/dripline/releases/tag/v0.9.10) - 2026-04-21
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [vex-core v0.3.8](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.8) - 2026-04-19
 
 [vex-core v0.3.7](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.7) - 2026-04-19
-
-[vex-core v0.3.6](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.6) - 2026-04-19
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -46,7 +46,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1150 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 923 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 924 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 347 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 211 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
