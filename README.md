@@ -20,9 +20,9 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[dripline v0.9.10](https://github.com/Michaelliv/dripline/releases/tag/v0.9.10) - 2026-04-21
-
 [runline v0.3.2](https://github.com/Michaelliv/runline/releases/tag/v0.3.2) - 2026-04-21
+
+[dripline v0.9.10](https://github.com/Michaelliv/dripline/releases/tag/v0.9.10) - 2026-04-21
 
 [runline v0.3.1](https://github.com/Michaelliv/runline/releases/tag/v0.3.1) - 2026-04-20
 
@@ -51,7 +51,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 211 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 138 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 103 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 105 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
