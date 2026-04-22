@@ -49,7 +49,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 924 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 347 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 211 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 174 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 138 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 105 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
