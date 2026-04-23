@@ -48,13 +48,13 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1150 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 924 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 347 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 211 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 212 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 138 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 105 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 139 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 106 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
+| [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
-| [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 46 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 46 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 43 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 38 |
