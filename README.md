@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-poster v0.1.3](https://github.com/Michaelliv/pi-poster/releases/tag/v0.1.3) - 2026-04-23
+
+[pi-napkin v0.2.3](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.3) - 2026-04-23
+
+[vex-core v0.3.9](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.9) - 2026-04-23
+
 [pi-universal-view v0.2.1](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.1) - 2026-04-22
 
 [runline v0.3.2](https://github.com/Michaelliv/runline/releases/tag/v0.3.2) - 2026-04-21
@@ -29,12 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.3.1](https://github.com/Michaelliv/runline/releases/tag/v0.3.1) - 2026-04-20
 
 [runline v0.3.0](https://github.com/Michaelliv/runline/releases/tag/v0.3.0) - 2026-04-20
-
-[agent-jail v0.4.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.4.0) - 2026-04-19
-
-[vex-core v0.3.8](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.8) - 2026-04-19
-
-[vex-core v0.3.7](https://github.com/Michaelliv/vex-core/releases/tag/v0.3.7) - 2026-04-19
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -46,14 +46,14 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1150 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 925 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 926 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 348 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 213 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 140 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 107 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 53 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 54 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 46 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 43 |
