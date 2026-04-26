@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.5.0](https://github.com/Michaelliv/runline/releases/tag/v0.5.0) - 2026-04-25
+
 [runline v0.4.0](https://github.com/Michaelliv/runline/releases/tag/v0.4.0) - 2026-04-24
 
 [dripline v0.9.11](https://github.com/Michaelliv/dripline/releases/tag/v0.9.11) - 2026-04-24
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-universal-view v0.2.1](https://github.com/Michaelliv/pi-universal-view/releases/tag/v0.2.1) - 2026-04-22
 
 [runline v0.3.2](https://github.com/Michaelliv/runline/releases/tag/v0.3.2) - 2026-04-21
-
-[dripline v0.9.10](https://github.com/Michaelliv/dripline/releases/tag/v0.9.10) - 2026-04-21
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,13 +45,13 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1152 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 928 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1153 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 930 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 349 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 215 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 140 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 109 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 112 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 84 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 59 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
