@@ -20,17 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[charts-cli v0.3.1](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.1) - 2026-03-23
+[psst v0.7.0](https://github.com/Michaelliv/psst/releases/tag/v0.7.0) - 2026-04-27
 
-[charts-cli v0.3.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.3.0) - 2026-03-23
+[napkin v0.8.1](https://github.com/Michaelliv/napkin/releases/tag/v0.8.1) - 2026-04-26
 
-[charts-cli v0.2.0](https://github.com/Michaelliv/charts-cli/releases/tag/v0.2.0) - 2026-02-18
+[runline v0.5.1](https://github.com/Michaelliv/runline/releases/tag/v0.5.1) - 2026-04-26
 
-[skill-search-cli v0.0.3](https://github.com/Michaelliv/skill-search-cli/releases/tag/v0.0.3) - 2026-02-10
+[runline v0.5.0](https://github.com/Michaelliv/runline/releases/tag/v0.5.0) - 2026-04-25
 
-[skill-search-cli v0.0.2](https://github.com/Michaelliv/skill-search-cli/releases/tag/v0.0.2) - 2026-02-10
+[dripline v0.9.11](https://github.com/Michaelliv/dripline/releases/tag/v0.9.11) - 2026-04-24
 
-[skill-search-cli v0.0.1](https://github.com/Michaelliv/skill-search-cli/releases/tag/v0.0.1) - 2026-02-10
+[runline v0.4.0](https://github.com/Michaelliv/runline/releases/tag/v0.4.0) - 2026-04-24
+
+[pi-napkin v0.2.3](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.3) - 2026-04-23
+
+[pi-poster v0.1.3](https://github.com/Michaelliv/pi-poster/releases/tag/v0.1.3) - 2026-04-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -42,9 +46,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1156 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 935 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 936 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 351 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 216 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 217 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 120 |
