@@ -20,17 +20,17 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
+
 [psst v0.7.0](https://github.com/Michaelliv/psst/releases/tag/v0.7.0) - 2026-04-27
 
-[napkin v0.8.1](https://github.com/Michaelliv/napkin/releases/tag/v0.8.1) - 2026-04-26
-
 [runline v0.5.1](https://github.com/Michaelliv/runline/releases/tag/v0.5.1) - 2026-04-26
+
+[napkin v0.8.1](https://github.com/Michaelliv/napkin/releases/tag/v0.8.1) - 2026-04-26
 
 [runline v0.5.0](https://github.com/Michaelliv/runline/releases/tag/v0.5.0) - 2026-04-25
 
 [dripline v0.9.11](https://github.com/Michaelliv/dripline/releases/tag/v0.9.11) - 2026-04-24
-
-[runline v0.4.0](https://github.com/Michaelliv/runline/releases/tag/v0.4.0) - 2026-04-24
 
 [pi-napkin v0.2.3](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.3) - 2026-04-23
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1162 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1165 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 937 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 352 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 353 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 217 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
@@ -73,6 +73,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
+| [antigravity-prompts](https://github.com/Michaelliv/antigravity-prompts) | Prompts, templates, and tool schemas extracted from Google… |  |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
 <!-- projects ends -->
