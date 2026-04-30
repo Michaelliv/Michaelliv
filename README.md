@@ -20,6 +20,12 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[vex-core v0.4.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.2) - 2026-04-30
+
+[vex-core v0.4.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.1) - 2026-04-30
+
+[vex-core v0.4.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.0) - 2026-04-30
+
 [dripline v0.9.12](https://github.com/Michaelliv/dripline/releases/tag/v0.9.12) - 2026-04-29
 
 [runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
@@ -29,12 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [napkin v0.8.1](https://github.com/Michaelliv/napkin/releases/tag/v0.8.1) - 2026-04-26
 
 [runline v0.5.1](https://github.com/Michaelliv/runline/releases/tag/v0.5.1) - 2026-04-26
-
-[runline v0.5.0](https://github.com/Michaelliv/runline/releases/tag/v0.5.0) - 2026-04-25
-
-[dripline v0.9.11](https://github.com/Michaelliv/dripline/releases/tag/v0.9.11) - 2026-04-24
-
-[pi-napkin v0.2.3](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.2.3) - 2026-04-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1173 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 937 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 355 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1187 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 938 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 356 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 217 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 175 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
