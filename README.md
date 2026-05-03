@@ -28,13 +28,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [vex-core v0.4.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.0) - 2026-04-30
 
-[runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
-
 [dripline v0.9.12](https://github.com/Michaelliv/dripline/releases/tag/v0.9.12) - 2026-04-29
+
+[runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
 
 [psst v0.7.0](https://github.com/Michaelliv/psst/releases/tag/v0.7.0) - 2026-04-27
 
-[napkin v0.8.1](https://github.com/Michaelliv/napkin/releases/tag/v0.8.1) - 2026-04-26
+[runline v0.5.1](https://github.com/Michaelliv/runline/releases/tag/v0.5.1) - 2026-04-26
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -51,12 +51,12 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 217 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 176 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 120 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 88 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 121 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 89 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 61 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 47 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
-| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 43 |
+| [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 44 |
 | [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 39 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 39 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
