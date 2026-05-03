@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1208 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 943 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1210 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 945 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 357 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 217 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 176 |
@@ -69,8 +69,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 5 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 5 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 4 |
+| [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 4 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
-| [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 3 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
