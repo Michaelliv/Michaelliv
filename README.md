@@ -20,6 +20,10 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.2](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.2) - 2026-05-04
+
+[pi-goal v0.1.1](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.1) - 2026-05-04
+
 [runline v0.5.3](https://github.com/Michaelliv/runline/releases/tag/v0.5.3) - 2026-05-02
 
 [vex-core v0.4.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.2) - 2026-04-30
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [dripline v0.9.12](https://github.com/Michaelliv/dripline/releases/tag/v0.9.12) - 2026-04-29
 
 [runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
-
-[psst v0.7.0](https://github.com/Michaelliv/psst/releases/tag/v0.7.0) - 2026-04-27
-
-[runline v0.5.1](https://github.com/Michaelliv/runline/releases/tag/v0.5.1) - 2026-04-26
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -73,6 +73,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 3 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 3 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [antigravity-prompts](https://github.com/Michaelliv/antigravity-prompts) | Prompts, templates, and tool schemas extracted from Google… |  |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
