@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.3](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.3) - 2026-05-06
+
 [pi-goal v0.1.2](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.2) - 2026-05-04
 
 [pi-goal v0.1.1](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.1) - 2026-05-04
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [vex-core v0.4.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.1) - 2026-04-30
 
 [runline v0.5.2](https://github.com/Michaelliv/runline/releases/tag/v0.5.2) - 2026-04-29
-
-[dripline v0.9.12](https://github.com/Michaelliv/dripline/releases/tag/v0.9.12) - 2026-04-29
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -47,13 +47,13 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1213 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 951 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 358 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 363 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 219 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 177 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 122 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 90 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 80 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 81 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 47 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
