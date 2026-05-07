@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
+
 [pi-goal v0.1.3](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.3) - 2026-05-06
 
 [pi-goal v0.1.2](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.2) - 2026-05-04
-
-[pi-goal v0.1.1](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.1) - 2026-05-04
 
 [vex-core v0.4.3](https://github.com/Michaelliv/vex-core/releases/tag/v0.4.3) - 2026-05-04
 
