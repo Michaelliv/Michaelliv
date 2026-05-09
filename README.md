@@ -22,9 +22,9 @@ More on [michaellivs.com](https://michaellivs.com)
 <!-- releases starts -->
 [runline v0.7.0](https://github.com/Michaelliv/runline/releases/tag/v0.7.0) - 2026-05-08
 
-[pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
-
 [runline v0.6.0](https://github.com/Michaelliv/runline/releases/tag/v0.6.0) - 2026-05-07
+
+[pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
 
 [pi-goal v0.1.3](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.3) - 2026-05-06
 
@@ -51,19 +51,19 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 220 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 178 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 122 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 123 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 91 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 84 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 85 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 47 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 47 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 44 |
+| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 41 |
 | [pi-websearch](https://github.com/Michaelliv/pi-websearch) | 🔍 Web search for pi — 12 providers, one tool. Pick what you… | 41 |
-| [pi-charts](https://github.com/Michaelliv/pi-charts) | Chart rendering for pi — bar, line, pie, scatter, radar, fu… | 40 |
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
-| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 13 |
+| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 14 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 7 |
 | [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 6 |
