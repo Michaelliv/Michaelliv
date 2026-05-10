@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[runline v0.7.2](https://github.com/Michaelliv/runline/releases/tag/v0.7.2) - 2026-05-09
-
-[runline v0.7.1](https://github.com/Michaelliv/runline/releases/tag/v0.7.1) - 2026-05-09
+[runline v0.7.4](https://github.com/Michaelliv/runline/releases/tag/v0.7.4) - 2026-05-09
 
 [runline v0.7.0](https://github.com/Michaelliv/runline/releases/tag/v0.7.0) - 2026-05-08
+
+[runline v0.6.0](https://github.com/Michaelliv/runline/releases/tag/v0.6.0) - 2026-05-07
 
 [pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
 
@@ -46,13 +46,13 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1218 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 958 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 959 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 376 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 220 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 178 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 123 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 91 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 124 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 92 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 86 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 48 |
