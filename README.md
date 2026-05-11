@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
+
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
 
 [dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.7.4](https://github.com/Michaelliv/runline/releases/tag/v0.7.4) - 2026-05-09
 
 [runline v0.7.0](https://github.com/Michaelliv/runline/releases/tag/v0.7.0) - 2026-05-08
-
-[pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
