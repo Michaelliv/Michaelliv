@@ -20,9 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
+[dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
 
-[dripline v0.9.13](https://github.com/Michaelliv/dripline/releases/tag/v0.9.13) - 2026-05-11
+[dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
+
+[dripline v0.9.14](https://github.com/Michaelliv/dripline/releases/tag/v0.9.14) - 2026-05-11
+
+[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
 
 [vex-core v0.5.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.0) - 2026-05-10
 
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.7.0](https://github.com/Michaelliv/runline/releases/tag/v0.7.0) - 2026-05-08
 
 [pi-goal v0.1.4](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.4) - 2026-05-07
-
-[pi-goal v0.1.3](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.3) - 2026-05-06
-
-[pi-goal v0.1.2](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.2) - 2026-05-04
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -52,7 +52,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 179 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 124 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 92 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 93 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 88 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 48 |
