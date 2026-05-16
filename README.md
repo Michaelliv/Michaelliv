@@ -4,6 +4,8 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 
 ### On the blog
 <!-- blog starts -->
+[Ergonomic coding surfaces for agents (a.k.a Code Mode)](https://michaellivs.com/blog/ergonomic-coding-surfaces-for-agents/) - 2026-05-15
+
 [State of Browser Use, May 2026](https://michaellivs.com/blog/state-of-browser-use-2026/) - 2026-05-04
 
 [Web Search for Agents in 2026](https://michaellivs.com/blog/web-search-for-agents-2026/) - 2026-03-26
@@ -11,8 +13,6 @@ Building tools for agents that do real work. Read [my blog](https://michaellivs.
 [System reminders - how Claude Code steers itself](https://michaellivs.com/blog/system-reminders-steering-agents/) - 2026-03-22
 
 [Building napkin - a memory system for agents](https://michaellivs.com/blog/building-napkin-memory-system-for-agents/) - 2026-03-16
-
-[Reverse-engineering Claude's generative UI - then building it for the terminal](https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/) - 2026-03-13
 <!-- blog ends -->
 More on [michaellivs.com](https://michaellivs.com)
 
@@ -22,6 +22,8 @@ More on [michaellivs.com](https://michaellivs.com)
 <!-- releases starts -->
 [vex-core v0.5.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.2) - 2026-05-13
 
+[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
+
 [vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
 
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
@@ -29,8 +31,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
 
 [dripline v0.9.14](https://github.com/Michaelliv/dripline/releases/tag/v0.9.14) - 2026-05-11
-
-[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
 
 [vex-core v0.5.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.0) - 2026-05-10
 
@@ -46,12 +46,12 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1222 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 973 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 974 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 379 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 221 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 178 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 124 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 125 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 94 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 92 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
