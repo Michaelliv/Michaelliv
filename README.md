@@ -22,15 +22,15 @@ More on [michaellivs.com](https://michaellivs.com)
 <!-- releases starts -->
 [vex-core v0.5.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.2) - 2026-05-13
 
-[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
-
-[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
-
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
 
 [dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
 
 [dripline v0.9.14](https://github.com/Michaelliv/dripline/releases/tag/v0.9.14) - 2026-05-11
+
+[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
+
+[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
 
 [vex-core v0.5.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.0) - 2026-05-10
 
@@ -52,7 +52,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 178 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 125 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 94 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 95 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 93 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 48 |
