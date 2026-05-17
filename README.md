@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[poster v0.5.0](https://github.com/Michaelliv/poster/releases/tag/v0.5.0) - 2026-05-16
+
 [vex-core v0.5.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.2) - 2026-05-13
 
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
 
 [vex-core v0.5.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.0) - 2026-05-10
-
-[runline v0.7.4](https://github.com/Michaelliv/runline/releases/tag/v0.7.4) - 2026-05-09
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -53,7 +53,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 125 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 95 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 93 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 94 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 62 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 48 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 47 |
