@@ -46,15 +46,15 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1224 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 975 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 976 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 382 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 222 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 179 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 126 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 97 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 98 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 96 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 63 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 64 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 48 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 48 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 44 |
