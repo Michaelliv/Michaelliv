@@ -26,15 +26,15 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [vex-core v0.5.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.2) - 2026-05-13
 
-[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
-
-[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
-
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
 
 [dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
 
 [dripline v0.9.14](https://github.com/Michaelliv/dripline/releases/tag/v0.9.14) - 2026-05-11
+
+[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
+
+[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1223 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1224 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 978 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 383 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 222 |
@@ -53,7 +53,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 126 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 99 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 96 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 97 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 64 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 50 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 49 |
