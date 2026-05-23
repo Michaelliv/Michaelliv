@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[vex-core v0.7.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.0) - 2026-05-22
+
+[vex-core v0.6.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.6.1) - 2026-05-22
+
+[vex-core v0.6.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.6.0) - 2026-05-22
+
 [runline v0.7.6](https://github.com/Michaelliv/runline/releases/tag/v0.7.6) - 2026-05-20
 
 [poster v0.5.0](https://github.com/Michaelliv/poster/releases/tag/v0.5.0) - 2026-05-16
-
-[vex-core v0.5.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.2) - 2026-05-13
 
 [dripline v0.9.16](https://github.com/Michaelliv/dripline/releases/tag/v0.9.16) - 2026-05-11
 
 [dripline v0.9.15](https://github.com/Michaelliv/dripline/releases/tag/v0.9.15) - 2026-05-11
 
 [dripline v0.9.14](https://github.com/Michaelliv/dripline/releases/tag/v0.9.14) - 2026-05-11
-
-[runline v0.7.5](https://github.com/Michaelliv/runline/releases/tag/v0.7.5) - 2026-05-11
-
-[vex-core v0.5.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.5.1) - 2026-05-11
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,12 +45,12 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1227 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1228 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 980 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 383 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 382 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 223 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 179 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 126 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 98 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 97 |
@@ -63,7 +63,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
-| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 14 |
+| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 15 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 7 |
 | [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 6 |
