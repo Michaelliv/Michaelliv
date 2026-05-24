@@ -20,11 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.5](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.5) - 2026-05-24
+
+[runline v0.7.7](https://github.com/Michaelliv/runline/releases/tag/v0.7.7) - 2026-05-24
+
 [napkin v0.8.3](https://github.com/Michaelliv/napkin/releases/tag/v0.8.3) - 2026-05-24
 
 [napkin v0.8.2](https://github.com/Michaelliv/napkin/releases/tag/v0.8.2) - 2026-05-24
-
-[pi-goal v0.1.5](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.5) - 2026-05-24
 
 [pi-system-reminders v0.1.3](https://github.com/Michaelliv/pi-system-reminders/releases/tag/v0.1.3) - 2026-05-24
 
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [psst v0.7.1](https://github.com/Michaelliv/psst/releases/tag/v0.7.1) - 2026-05-24
 
 [vex-core v0.7.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.2) - 2026-05-23
-
-[vex-core v0.7.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.1) - 2026-05-23
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,14 +45,14 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1231 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1232 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 980 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 382 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 223 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 179 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 126 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 108 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 109 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 97 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 64 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 50 |
