@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[vex-core v0.7.2](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.2) - 2026-05-23
+
+[vex-core v0.7.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.1) - 2026-05-23
+
 [vex-core v0.7.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.7.0) - 2026-05-22
-
-[vex-core v0.6.1](https://github.com/Michaelliv/vex-core/releases/tag/v0.6.1) - 2026-05-22
-
-[vex-core v0.6.0](https://github.com/Michaelliv/vex-core/releases/tag/v0.6.0) - 2026-05-22
 
 [runline v0.7.6](https://github.com/Michaelliv/runline/releases/tag/v0.7.6) - 2026-05-20
 
