@@ -30,11 +30,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 [pi-dynamic-workflows v1.0.1](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.1) - 2026-05-31
 
-[pi-dynamic-workflows v1.0.0](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.0) - 2026-05-28
-
 [runline v0.8.0](https://github.com/Michaelliv/runline/releases/tag/v0.8.0) - 2026-05-28
 
-[pi-goal v0.1.5](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.5) - 2026-05-24
+[pi-dynamic-workflows v1.0.0](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.0) - 2026-05-28
+
+[runline v0.7.7](https://github.com/Michaelliv/runline/releases/tag/v0.7.7) - 2026-05-24
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1259 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1087 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1263 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1089 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 386 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 181 |
@@ -65,9 +65,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 15 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
+| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 7 |
 | [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 7 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 7 |
-| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 6 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 6 |
 | [pi-shot](https://github.com/Michaelliv/pi-shot) | Capture the live pi TUI as a pixel-perfect PNG. Compose syn… | 6 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 5 |
