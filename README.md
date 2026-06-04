@@ -20,6 +20,10 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
+
+[cadcli v0.3.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.3.0) - 2026-06-03
+
 [pi-websearch v0.2.2](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.2) - 2026-06-02
 
 [cadcli v0.2.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.2.0) - 2026-06-01
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.8.0](https://github.com/Michaelliv/runline/releases/tag/v0.8.0) - 2026-05-28
 
 [pi-goal v0.1.5](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.5) - 2026-05-24
-
-[runline v0.7.7](https://github.com/Michaelliv/runline/releases/tag/v0.7.7) - 2026-05-24
-
-[pi-system-reminders v0.1.3](https://github.com/Michaelliv/pi-system-reminders/releases/tag/v0.1.3) - 2026-05-24
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -45,8 +45,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1250 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1078 |
+| [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1255 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1081 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 386 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 181 |
