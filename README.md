@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.9.0](https://github.com/Michaelliv/runline/releases/tag/v0.9.0) - 2026-06-09
+
 [runline v0.8.1](https://github.com/Michaelliv/runline/releases/tag/v0.8.1) - 2026-06-04
 
 [cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [cadcli v0.2.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.2.0) - 2026-06-01
 
 [pi-dynamic-workflows v1.0.1](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.1) - 2026-05-31
-
-[pi-dynamic-workflows v1.0.0](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.0) - 2026-05-28
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -50,11 +50,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 388 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 181 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 145 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 146 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 140 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 99 |
-| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 67 |
+| [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 68 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 51 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 49 |
 | [agentbox](https://github.com/Michaelliv/agentbox) | A computer for your agent - sandboxed code execution for AI… | 47 |
