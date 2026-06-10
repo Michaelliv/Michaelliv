@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-websearch v0.2.3](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.3) - 2026-06-10
+
 [runline v0.10.0](https://github.com/Michaelliv/runline/releases/tag/v0.10.0) - 2026-06-09
 
 [runline v0.9.0](https://github.com/Michaelliv/runline/releases/tag/v0.9.0) - 2026-06-09
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [cadcli v0.3.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.3.0) - 2026-06-03
 
 [pi-websearch v0.2.2](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.2) - 2026-06-02
-
-[cadcli v0.2.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.2.0) - 2026-06-01
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -50,7 +50,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 388 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 182 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 146 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 147 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 140 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 99 |
