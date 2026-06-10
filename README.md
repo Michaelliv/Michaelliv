@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.10.0](https://github.com/Michaelliv/runline/releases/tag/v0.10.0) - 2026-06-09
+
 [runline v0.9.0](https://github.com/Michaelliv/runline/releases/tag/v0.9.0) - 2026-06-09
 
 [runline v0.8.1](https://github.com/Michaelliv/runline/releases/tag/v0.8.1) - 2026-06-04
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-websearch v0.2.2](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.2) - 2026-06-02
 
 [cadcli v0.2.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.2.0) - 2026-06-01
-
-[pi-dynamic-workflows v1.0.1](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.1) - 2026-05-31
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
