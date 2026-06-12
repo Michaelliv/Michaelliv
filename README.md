@@ -52,7 +52,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 182 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 152 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 144 |
-| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 142 |
+| [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 99 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 68 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 51 |
@@ -63,7 +63,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [9to5](https://github.com/Michaelliv/9to5) | Automated agents for Claude Code — trigger on a schedule, f… | 26 |
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
-| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 15 |
+| [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 16 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
 | [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 8 |
