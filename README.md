@@ -20,13 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.11.2](https://github.com/Michaelliv/runline/releases/tag/v0.11.2) - 2026-06-14
+
 [runline v0.11.1](https://github.com/Michaelliv/runline/releases/tag/v0.11.1) - 2026-06-11
 
 [runline v0.11.0](https://github.com/Michaelliv/runline/releases/tag/v0.11.0) - 2026-06-11
 
 [pi-websearch v0.2.3](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.3) - 2026-06-10
-
-[runline v0.10.0](https://github.com/Michaelliv/runline/releases/tag/v0.10.0) - 2026-06-09
 
 [cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
 
