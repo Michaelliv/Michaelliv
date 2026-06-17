@@ -50,7 +50,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 393 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 182 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 160 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 161 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 145 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 144 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 100 |
