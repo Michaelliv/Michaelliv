@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
+
 [runline v0.11.2](https://github.com/Michaelliv/runline/releases/tag/v0.11.2) - 2026-06-14
 
 [runline v0.11.1](https://github.com/Michaelliv/runline/releases/tag/v0.11.1) - 2026-06-11
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
 
 [cadcli v0.3.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.3.0) - 2026-06-03
-
-[pi-websearch v0.2.2](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.2) - 2026-06-02
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -47,7 +47,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1277 |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1107 |
-| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 397 |
+| [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 398 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 226 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 184 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 164 |
