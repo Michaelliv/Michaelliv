@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-goal v0.1.7](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.7) - 2026-06-21
+
 [pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
 
 [runline v0.11.2](https://github.com/Michaelliv/runline/releases/tag/v0.11.2) - 2026-06-14
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
 
 [pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
-
-[cadcli v0.3.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.3.0) - 2026-06-03
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
