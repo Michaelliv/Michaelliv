@@ -53,7 +53,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 174 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 146 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 100 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 101 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 69 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 51 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 49 |
