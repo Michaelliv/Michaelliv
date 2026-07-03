@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.12.0](https://github.com/Michaelliv/runline/releases/tag/v0.12.0) - 2026-07-02
+
 [runline v0.11.6](https://github.com/Michaelliv/runline/releases/tag/v0.11.6) - 2026-06-29
 
 [runline v0.11.5](https://github.com/Michaelliv/runline/releases/tag/v0.11.5) - 2026-06-24
-
-[runline v0.11.4](https://github.com/Michaelliv/runline/releases/tag/v0.11.4) - 2026-06-24
 
 [pi-goal v0.1.7](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.7) - 2026-06-21
 
@@ -64,8 +64,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 22 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 19 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 16 |
+| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 9 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
-| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 8 |
 | [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 8 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 8 |
 | [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 6 |
