@@ -20,6 +20,10 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[pi-napkin v0.3.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.3.0) - 2026-07-05
+
+[napkin v0.9.0](https://github.com/Michaelliv/napkin/releases/tag/v0.9.0) - 2026-07-05
+
 [runline v0.12.0](https://github.com/Michaelliv/runline/releases/tag/v0.12.0) - 2026-07-02
 
 [runline v0.11.6](https://github.com/Michaelliv/runline/releases/tag/v0.11.6) - 2026-06-29
@@ -31,10 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
 
 [pi-websearch v0.2.3](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.3) - 2026-06-10
-
-[cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
-
-[pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
