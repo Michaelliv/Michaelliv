@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.19.0](https://github.com/Michaelliv/runline/releases/tag/v0.19.0) - 2026-07-27
+
 [runline v0.18.0](https://github.com/Michaelliv/runline/releases/tag/v0.18.0) - 2026-07-27
 
 [runline v0.17.0](https://github.com/Michaelliv/runline/releases/tag/v0.17.0) - 2026-07-27
-
-[runline v0.16.2](https://github.com/Michaelliv/runline/releases/tag/v0.16.2) - 2026-07-24
 
 [napkin v0.9.0](https://github.com/Michaelliv/napkin/releases/tag/v0.9.0) - 2026-07-05
 
@@ -50,7 +50,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 406 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 230 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 188 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 187 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 188 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 152 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 102 |
