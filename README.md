@@ -46,11 +46,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [markit](https://github.com/Michaelliv/markit) | 🖍️ Convert anything to markdown. Mark it. | 1292 |
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1142 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1143 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 408 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 231 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 193 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 189 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 190 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 155 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 103 |
@@ -72,9 +72,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-shot](https://github.com/Michaelliv/pi-shot) | Capture the live pi TUI as a pixel-perfect PNG. Compose syn… | 6 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 5 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 4 |
+| [antigravity-prompts](https://github.com/Michaelliv/antigravity-prompts) | Prompts, templates, and tool schemas extracted from Google… | 4 |
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 4 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
-| [antigravity-prompts](https://github.com/Michaelliv/antigravity-prompts) | Prompts, templates, and tool schemas extracted from Google… | 3 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown |  |
