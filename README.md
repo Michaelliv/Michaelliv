@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.24.0](https://github.com/Michaelliv/runline/releases/tag/v0.24.0) - 2026-08-05
+
 [napkin v0.9.2](https://github.com/Michaelliv/napkin/releases/tag/v0.9.2) - 2026-08-02
 
 [napkin v0.9.1](https://github.com/Michaelliv/napkin/releases/tag/v0.9.1) - 2026-08-02
@@ -27,8 +29,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [runline v0.23.0](https://github.com/Michaelliv/runline/releases/tag/v0.23.0) - 2026-07-28
 
 [runline v0.22.0](https://github.com/Michaelliv/runline/releases/tag/v0.22.0) - 2026-07-28
-
-[runline v0.21.0](https://github.com/Michaelliv/runline/releases/tag/v0.21.0) - 2026-07-28
 
 [napkin v0.9.0](https://github.com/Michaelliv/napkin/releases/tag/v0.9.0) - 2026-07-05
 
@@ -49,7 +49,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1144 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 411 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 233 |
-| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 193 |
+| [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 194 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 191 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 156 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
