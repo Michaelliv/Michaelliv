@@ -50,7 +50,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 234 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 202 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 194 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 157 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 158 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 105 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 68 |
