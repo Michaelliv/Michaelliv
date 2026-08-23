@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.28.1](https://github.com/Michaelliv/runline/releases/tag/v0.28.1) - 2026-08-23
+
 [runline v0.28.0](https://github.com/Michaelliv/runline/releases/tag/v0.28.0) - 2026-08-23
 
 [runline v0.27.2](https://github.com/Michaelliv/runline/releases/tag/v0.27.2) - 2026-08-21
-
-[runline v0.27.1](https://github.com/Michaelliv/runline/releases/tag/v0.27.1) - 2026-08-19
 
 [napkin v0.9.2](https://github.com/Michaelliv/napkin/releases/tag/v0.9.2) - 2026-08-02
 
@@ -48,11 +48,11 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1152 |
 | [napkin](https://github.com/Michaelliv/napkin) | 🧻 Knowledge system for agents. Local-first, file-based, pro… | 426 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 235 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 206 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 207 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 194 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 158 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 159 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
-| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 105 |
+| [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 106 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 69 |
 | [flaregun](https://github.com/Michaelliv/flaregun) | 🔥 Rotating proxy network on Cloudflare Workers. Deploy, rot… | 51 |
 | [pi-magic-docs](https://github.com/Michaelliv/pi-magic-docs) | 🪄 Living documents that update themselves from your convers… | 50 |
@@ -75,7 +75,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 4 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown | 2 |
-| [pi-recall](https://github.com/Michaelliv/pi-recall) | BM25 search over every past pi conversation | 1 |
+| [pi-recall](https://github.com/Michaelliv/pi-recall) | BM25 search over every past pi conversation | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 <!-- projects ends -->
