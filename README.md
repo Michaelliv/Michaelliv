@@ -75,6 +75,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 4 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown | 2 |
+| [pi-recall](https://github.com/Michaelliv/pi-recall) | BM25 search over every past pi conversation | 1 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
 <!-- projects ends -->
