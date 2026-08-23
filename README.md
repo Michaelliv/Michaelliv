@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.28.0](https://github.com/Michaelliv/runline/releases/tag/v0.28.0) - 2026-08-23
+
 [runline v0.27.2](https://github.com/Michaelliv/runline/releases/tag/v0.27.2) - 2026-08-21
 
 [runline v0.27.1](https://github.com/Michaelliv/runline/releases/tag/v0.27.1) - 2026-08-19
-
-[runline v0.27.0](https://github.com/Michaelliv/runline/releases/tag/v0.27.0) - 2026-08-19
 
 [napkin v0.9.2](https://github.com/Michaelliv/napkin/releases/tag/v0.9.2) - 2026-08-02
 
