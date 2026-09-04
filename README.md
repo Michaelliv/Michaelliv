@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.29.0](https://github.com/Michaelliv/runline/releases/tag/v0.29.0) - 2026-09-04
+
 [runline v0.28.1](https://github.com/Michaelliv/runline/releases/tag/v0.28.1) - 2026-08-23
 
 [runline v0.28.0](https://github.com/Michaelliv/runline/releases/tag/v0.28.0) - 2026-08-23
-
-[runline v0.27.2](https://github.com/Michaelliv/runline/releases/tag/v0.27.2) - 2026-08-21
 
 [pi-napkin v0.3.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.3.0) - 2026-07-05
 
@@ -45,9 +45,9 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1155 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1158 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 236 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 217 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 218 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 195 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 161 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 145 |
