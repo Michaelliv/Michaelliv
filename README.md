@@ -20,13 +20,13 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.30.1](https://github.com/Michaelliv/runline/releases/tag/v0.30.1) - 2026-09-16
+
+[runline v0.30.0](https://github.com/Michaelliv/runline/releases/tag/v0.30.0) - 2026-09-16
+
 [agent-jail v0.5.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.0) - 2026-09-15
 
 [runline v0.29.0](https://github.com/Michaelliv/runline/releases/tag/v0.29.0) - 2026-09-04
-
-[runline v0.28.1](https://github.com/Michaelliv/runline/releases/tag/v0.28.1) - 2026-08-23
-
-[runline v0.28.0](https://github.com/Michaelliv/runline/releases/tag/v0.28.0) - 2026-08-23
 
 [pi-napkin v0.3.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.3.0) - 2026-07-05
 
