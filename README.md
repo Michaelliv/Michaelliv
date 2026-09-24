@@ -71,7 +71,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 6 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 5 |
 | [antigravity-prompts](https://github.com/Michaelliv/antigravity-prompts) | Prompts, templates, and tool schemas extracted from Google… | 5 |
-| [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 4 |
+| [handoff](https://github.com/Michaelliv/handoff) | macOS clipboard manager for sharing content between humans… | 5 |
 | [skill-search-cli](https://github.com/Michaelliv/skill-search-cli) | CLI tool for searching and managing AI agent skills | 4 |
 | [markdown-for-x](https://github.com/Michaelliv/markdown-for-x) | Chrome extension: write X Articles in Markdown | 2 |
 | [pi-recall](https://github.com/Michaelliv/pi-recall) | BM25 search over every past pi conversation | 2 |
