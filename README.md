@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.34.0](https://github.com/Michaelliv/runline/releases/tag/v0.34.0) - 2026-09-29
+
 [runline v0.33.0](https://github.com/Michaelliv/runline/releases/tag/v0.33.0) - 2026-09-26
 
 [runline v0.32.0](https://github.com/Michaelliv/runline/releases/tag/v0.32.0) - 2026-09-19
-
-[runline v0.31.0](https://github.com/Michaelliv/runline/releases/tag/v0.31.0) - 2026-09-17
 
 [agent-jail v0.5.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.0) - 2026-09-15
 
@@ -47,7 +47,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 |---------|-------------|---|
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1163 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 238 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 226 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 225 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 196 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 164 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 144 |
