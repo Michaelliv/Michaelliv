@@ -20,6 +20,8 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[agent-jail v0.5.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.1) - 2026-10-06
+
 [runline v0.34.0](https://github.com/Michaelliv/runline/releases/tag/v0.34.0) - 2026-09-29
 
 [runline v0.33.0](https://github.com/Michaelliv/runline/releases/tag/v0.33.0) - 2026-09-26
@@ -33,8 +35,6 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-goal v0.1.7](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.7) - 2026-06-21
 
 [pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
-
-[pi-websearch v0.2.3](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.3) - 2026-06-10
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
