@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1164 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1165 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 238 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 233 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 199 |
@@ -62,7 +62,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [cc-dejavu](https://github.com/Michaelliv/cc-dejavu) | CLI tool to search and browse Claude Code bash command hist… | 23 |
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 20 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 18 |
-| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 12 |
+| [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 13 |
 | [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 9 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 9 |
