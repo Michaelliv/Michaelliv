@@ -20,21 +20,21 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[runline v0.37.0](https://github.com/Michaelliv/runline/releases/tag/v0.37.0) - 2026-10-18
-
-[runline v0.36.0](https://github.com/Michaelliv/runline/releases/tag/v0.36.0) - 2026-10-18
-
-[runline v0.35.0](https://github.com/Michaelliv/runline/releases/tag/v0.35.0) - 2026-10-15
-
 [agent-jail v0.5.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.1) - 2026-10-06
 
 [agent-jail v0.5.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.0) - 2026-09-15
 
 [pi-napkin v0.3.0](https://github.com/Michaelliv/pi-napkin/releases/tag/v0.3.0) - 2026-07-05
 
-[pi-goal v0.1.7](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.7) - 2026-06-21
+[cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
 
-[pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
+[pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
+
+[cadcli v0.3.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.3.0) - 2026-06-03
+
+[cadcli v0.2.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.2.0) - 2026-06-01
+
+[pi-dynamic-workflows v1.0.1](https://github.com/Michaelliv/pi-dynamic-workflows/releases/tag/v1.0.1) - 2026-05-31
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
