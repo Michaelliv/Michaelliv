@@ -46,8 +46,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | Project | What it does | ★ |
 |---------|-------------|---|
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1166 |
-| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 239 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 234 |
+| [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 240 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 235 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 199 |
 | [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 166 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
@@ -63,10 +63,10 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [mental](https://github.com/Michaelliv/mental) | The mental model layer for agent-written code | 20 |
 | [agent-harness](https://github.com/Michaelliv/agent-harness) | Open source primitives for agent context management | 18 |
 | [agent-jail](https://github.com/Michaelliv/agent-jail) | ⛓️ Portable filesystem sandbox for spawning untrusted subpr… | 13 |
+| [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 10 |
 | [browsemode-mono](https://github.com/Michaelliv/browsemode-mono) | 🦾 Code mode for the web. SDK + CLI driving real browsers vi… | 9 |
 | [charts-cli](https://github.com/Michaelliv/charts-cli) | Generate SVG/PNG charts from the command line — bar, line,… | 9 |
 | [nanny](https://github.com/Michaelliv/nanny) | The dumb task loop for smart agents. Ralph Wiggum loops wit… | 9 |
-| [pi-ask-user-question](https://github.com/Michaelliv/pi-ask-user-question) | ❓ Interactive multi-choice question tool for pi — clarify r… | 9 |
 | [pi-shot](https://github.com/Michaelliv/pi-shot) | Capture the live pi TUI as a pixel-perfect PNG. Compose syn… | 7 |
 | [fork-you](https://github.com/Michaelliv/fork-you) | 🤌 Git-based CRM. Your pipeline lives in your repo. | 6 |
 | [agent-harness-ai-sdk](https://github.com/Michaelliv/agent-harness-ai-sdk) | Context engine implementation for Vercel AI SDK | 5 |
