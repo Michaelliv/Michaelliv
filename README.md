@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.39.0](https://github.com/Michaelliv/runline/releases/tag/v0.39.0) - 2026-11-09
+
 [runline v0.38.0](https://github.com/Michaelliv/runline/releases/tag/v0.38.0) - 2026-11-02
 
 [runline v0.37.0](https://github.com/Michaelliv/runline/releases/tag/v0.37.0) - 2026-10-18
-
-[runline v0.36.0](https://github.com/Michaelliv/runline/releases/tag/v0.36.0) - 2026-10-18
 
 [agent-jail v0.5.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.1) - 2026-10-06
 
@@ -45,7 +45,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 <!-- projects starts -->
 | Project | What it does | ★ |
 |---------|-------------|---|
-| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1177 |
+| [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1178 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 242 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 235 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 202 |
