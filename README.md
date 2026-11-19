@@ -20,11 +20,11 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
+[runline v0.44.0](https://github.com/Michaelliv/runline/releases/tag/v0.44.0) - 2026-11-19
+
 [runline v0.43.0](https://github.com/Michaelliv/runline/releases/tag/v0.43.0) - 2026-11-18
 
 [runline v0.42.0](https://github.com/Michaelliv/runline/releases/tag/v0.42.0) - 2026-11-15
-
-[runline v0.41.0](https://github.com/Michaelliv/runline/releases/tag/v0.41.0) - 2026-11-09
 
 [agent-jail v0.5.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.1) - 2026-10-06
 
@@ -49,7 +49,7 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 241 |
 | [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 236 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 202 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 167 |
+| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 168 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 107 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 74 |
