@@ -20,12 +20,6 @@ More on [michaellivs.com](https://michaellivs.com)
 
 ### Recent releases
 <!-- releases starts -->
-[runline v0.44.0](https://github.com/Michaelliv/runline/releases/tag/v0.44.0) - 2026-11-19
-
-[runline v0.43.0](https://github.com/Michaelliv/runline/releases/tag/v0.43.0) - 2026-11-18
-
-[runline v0.42.0](https://github.com/Michaelliv/runline/releases/tag/v0.42.0) - 2026-11-15
-
 [agent-jail v0.5.1](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.1) - 2026-10-06
 
 [agent-jail v0.5.0](https://github.com/Michaelliv/agent-jail/releases/tag/v0.5.0) - 2026-09-15
@@ -35,6 +29,12 @@ More on [michaellivs.com](https://michaellivs.com)
 [pi-goal v0.1.7](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.7) - 2026-06-21
 
 [pi-goal v0.1.6](https://github.com/Michaelliv/pi-goal/releases/tag/v0.1.6) - 2026-06-20
+
+[pi-websearch v0.2.3](https://github.com/Michaelliv/pi-websearch/releases/tag/v0.2.3) - 2026-06-10
+
+[cadcli v0.4.0](https://github.com/Michaelliv/cadcli/releases/tag/v0.4.0) - 2026-06-04
+
+[pi-generative-ui v0.3.0](https://github.com/Michaelliv/pi-generative-ui/releases/tag/v0.3.0) - 2026-06-03
 <!-- releases ends -->
 More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updated)
 
@@ -47,9 +47,8 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 |---------|-------------|---|
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI — reverse-engineered, rebuilt for… | 1179 |
 | [psst](https://github.com/Michaelliv/psst) | AI-native secrets manager. Agents use secrets without seein… | 242 |
-| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 236 |
+| [pi-goal](https://github.com/Michaelliv/pi-goal) | Persistent autonomous goals for pi | 237 |
 | [claude-quest](https://github.com/Michaelliv/claude-quest) | RPG-style animation viewer for Claude Code sessions - watch… | 202 |
-| [runline](https://github.com/Michaelliv/runline) | ⚡ Code mode for agents | 168 |
 | [mercury](https://github.com/Michaelliv/mercury) | 🪽 Mercury — There are many claws, but this one is mine. | 143 |
 | [dripline](https://github.com/Michaelliv/dripline) | 💧 Query mode for agents | 107 |
 | [poster](https://github.com/Michaelliv/poster) | 🎨 Single-file distributable React posters — one .tsx file,… | 74 |
@@ -77,4 +76,5 @@ More [recent releases](https://github.com/Michaelliv?tab=repositories&sort=updat
 | [pi-recall](https://github.com/Michaelliv/pi-recall) | BM25 search over every past pi conversation | 2 |
 | [stage](https://github.com/the-shift-dev/stage) | Sandboxed React runtime for AI agents | 1 |
 | [cc-for-dummies](https://github.com/Michaelliv/cc-for-dummies) | Claude Code for Dummies |  |
+| [pi-runline](https://github.com/Michaelliv/pi-runline) | Code mode for pi: runline as one tool |  |
 <!-- projects ends -->
